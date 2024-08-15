@@ -1,0 +1,8 @@
+/* html */
+< blockquote data-package-name="com.apkpure.aegon" 
+  data-language="en" 
+  class="apkpure-app-card"> </blockquote>
+/* javascript script */
+< script async charset="utf-8" 
+  src="https://static.apkpure.com/www/static/script/plugins/appCard-1.0.0.min.js">
+</script>
